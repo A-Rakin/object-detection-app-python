@@ -6,7 +6,7 @@ The small and fast version of the model, **YOLOv5s**, is loaded directly from Py
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Image Detection:** Analyze any single image file and display the results with labeled bounding boxes and confidence scores in a new window.
 * **Real-Time Webcam Detection:** Stream live video from your default camera, process frames with YOLOv5, and render the results instantly.
@@ -14,7 +14,7 @@ The small and fast version of the model, **YOLOv5s**, is loaded directly from Py
 
 ---
 
-## 💻 Prerequisites
+## Prerequisites
 
 You need **Python 3.x** and the following libraries installed:
 
